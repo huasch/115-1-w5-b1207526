@@ -1,0 +1,11 @@
+# 編譯產物（按執行鍵會產生，不需上傳）
+build/
+*.o
+*.exe
+*.out
+
+# 編輯器個人設定
+.vscode/
+.idea/
+*.swp
+.DS_Store
